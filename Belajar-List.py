@@ -12,6 +12,7 @@ data3=data+data2
 data2[2]=350
 #mengkopi data
 a=data[:]
+b=data.copy()
 a[4]=90
 #merubah kontek dengan slicing
 data[3:5]=[11,12]
@@ -29,10 +30,20 @@ y=x[0][2]
 
 #menambah member
 data.append(3)
+data.extend([4,6,7])
+data.insert(3,2)
+
+#menghapus member
+data.remove(49)
+data.reverse()
+
 print(data)
 
 #mengetahui panjang
 panjang=len(data)
 
-print(panjang)
+#print(panjang)
+
+
+
 
