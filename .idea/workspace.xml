@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4a8e859-0f66-4949-973c-c496b6a818d8" name="Default Changelist" comment="Commit smpai Package">
+      <change afterPath="$PROJECT_DIR$/Belajar-Class/Belajar-Inheritance/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-Class/Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-Env/project1/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-GUI/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-InputOutput/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-Main/Pillow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-Main/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-Main/matematika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-Main/nump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Belajar-Main/poto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package-Lanjut/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package-Lanjut/sains/Fisika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package-Lanjut/sains/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package-Lanjut/sains/matematika/Matematika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package-Lanjut/sains/matematika/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Belajar-Package/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Belajar-Package/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Belajar-Package/sains/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Belajar-Package/sains/__init__.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Number.py" />
+        <option value="$PROJECT_DIR$/Belajar-String.py" />
+        <option value="$PROJECT_DIR$/Belajar-IfElse.py" />
+        <option value="$PROJECT_DIR$/Belajar-ForLoop.py" />
+        <option value="$PROJECT_DIR$/Belajar-ForLoopBreakRange.py" />
+        <option value="$PROJECT_DIR$/Belajar-ContinuePass.py" />
+        <option value="$PROJECT_DIR$/Belajar-While.py" />
+        <option value="$PROJECT_DIR$/Function.py" />
+        <option value="$PROJECT_DIR$/Belajar-Function.py" />
+        <option value="$PROJECT_DIR$/Belajar-FunctionArgument.py" />
+        <option value="$PROJECT_DIR$/Belajar-FunctinReturn.py" />
+        <option value="$PROJECT_DIR$/Belajar-Lamda.py" />
+        <option value="$PROJECT_DIR$/Belajar-Scoope.py" />
+        <option value="$PROJECT_DIR$/Belajar-List.py" />
+        <option value="$PROJECT_DIR$/Belajar-STackQueuing.py" />
+        <option value="$PROJECT_DIR$/Antrian/antrian.py" />
+        <option value="$PROJECT_DIR$/Belajar-Tuple.py" />
+        <option value="$PROJECT_DIR$/Belajar-Set.py" />
+        <option value="$PROJECT_DIR$/Belajar-Dictionary.py" />
+        <option value="$PROJECT_DIR$/Antrian/Belajar-LoopingLanjutan.py" />
+        <option value="$PROJECT_DIR$/Belajar-Import.py" />
+        <option value="$PROJECT_DIR$/BelajarImport/modul.py" />
+        <option value="$PROJECT_DIR$/BelajarImport/main.py" />
+        <option value="$PROJECT_DIR$/BelajarModule/matematika.py" />
+        <option value="$PROJECT_DIR$/BelajarModule/main.py" />
+        <option value="$PROJECT_DIR$/Belajar-Package/sains/Matematika.py" />
+        <option value="$PROJECT_DIR$/Belajar-Package/__init__.py" />
+        <option value="$PROJECT_DIR$/Belajar-Package/sains/Fisika.py" />
+        <option value="$PROJECT_DIR$/Belajar-Package/sains/matematika/__init__.py" />
+        <option value="$PROJECT_DIR$/Belajar-Package/sains/__init__.py" />
+        <option value="$PROJECT_DIR$/Belajar-Package/Main.py" />
+        <option value="$PROJECT_DIR$/Package-Lanjut/sains/matematika/__init__.py" />
+        <option value="$PROJECT_DIR$/Package-Lanjut/sains/__init__.py" />
+        <option value="$PROJECT_DIR$/Package-Lanjut/Main.py" />
+        <option value="$PROJECT_DIR$/Belajar-Main/main.py" />
+        <option value="$PROJECT_DIR$/Belajar-Main/matematika.py" />
+        <option value="$PROJECT_DIR$/Belajar-Class/Class.py" />
+        <option value="$PROJECT_DIR$/Belajar-Class/Belajar-Inheritance/Main.py" />
+        <option value="$PROJECT_DIR$/Belajar-InputOutput/main.py" />
+        <option value="$PROJECT_DIR$/Belajar-GUI/main.py" />
+        <option value="$PROJECT_DIR$/Belajar-Main/nump.py" />
+        <option value="$PROJECT_DIR$/Belajar-Main/Pillow.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Belajar-Env/project1" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Belajar\belajar-python\Git Python Basic\Belajar-Python-Basic\Belajar-Package\sains" />
+      <recent name="D:\Belajar\belajar-python\Git Python Basic\Belajar-Python-Basic\Belajar-Package\sains\matematika" />
+      <recent name="D:\Belajar\belajar-python\Git Python Basic\Belajar-Python-Basic\BelajarImport" />
+      <recent name="D:\Belajar\belajar-python\Git Python Basic\Belajar-Python-Basic" />
+      <recent name="D:\Belajar\belajar-python\Git Python Basic\Belajar-Python-Basic\Antrian" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Belajar\belajar-python\Git Python Basic\Belajar-Python-Basic\Belajar-Main" />
+      <recent name="D:\Belajar\belajar-python\Git Python Basic\Belajar-Python-Basic\Package-Lanjut\sains" />
+      <recent name="D:\Belajar\belajar-python\Git Python Basic\Belajar-Python-Basic\Package-Lanjut\sains\matematika" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Pillow">
+    <configuration name="Belajar-LoopingLanjutan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Belajar-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Belajar-LoopingLanjutan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Belajar-While" type="PythonConfigurationType" factoryName="Python">
+      <module name="Belajar-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Belajar-While.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pillow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Belajar-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Belajar-Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Belajar-Main/Pillow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Belajar-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Belajar-GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Belajar-GUI/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Belajar-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Belajar-InputOutput" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Belajar-InputOutput/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nump" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Belajar-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Belajar-Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Belajar-Main/nump.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Pillow" />
+        <item itemvalue="Python.nump" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Belajar-LoopingLanjutan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4a8e859-0f66-4949-973c-c496b6a818d8" name="Default Changelist" comment="" />
+      <created>1554436454103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554436454103</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit Tambah File">
+      <created>1554437235474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554437235474</updated>
+    </task>
+    <task id="LOCAL-00002" summary="File Number Selesai">
+      <created>1554437532657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554437532657</updated>
+    </task>
+    <task id="LOCAL-00003" summary="File String Selesai">
+      <created>1554438588829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554438588829</updated>
+    </task>
+    <task id="LOCAL-00004" summary="File List Selesai">
+      <created>1554439890195</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554439890195</updated>
+    </task>
+    <task id="LOCAL-00005" summary="File List Selesai">
+      <created>1554446003883</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554446003883</updated>
+    </task>
+    <task id="LOCAL-00006" summary="File List Selesai">
+      <created>1554447983576</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554447983576</updated>
+    </task>
+    <task id="LOCAL-00007" summary="File List Selesai">
+      <created>1554450018260</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554450018260</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit Sampai Function">
+      <created>1554451269046</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554451269046</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit Sampai Lambda">
+      <created>1554451898552</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554451898552</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit smpai antrian">
+      <created>1554457430038</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554457430038</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit smpai Import">
+      <created>1554471830618</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554471830619</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Commit smpai Package">
+      <created>1554565858770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554565858770</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="761" y="0" width="782" height="839" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29558012" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32863188" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49793103" weight="0.32863188" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49931034" weight="0.32863188" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006896" side_tool="true" weight="0.32863188" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32863188" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Tambah File" />
+    <MESSAGE value="File Number Selesai" />
+    <MESSAGE value="File String Selesai" />
+    <MESSAGE value="File List Selesai" />
+    <MESSAGE value="Commit Sampai Function" />
+    <MESSAGE value="Commit Sampai Lambda" />
+    <MESSAGE value="Commit smpai antrian" />
+    <MESSAGE value="Commit smpai Import" />
+    <MESSAGE value="Commit smpai Package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit smpai Package" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Belajar-Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-ForLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="10" column="40" selection-start-line="10" selection-end-line="10" selection-end-column="40" />
+          <caret line="11" column="40" selection-start-line="11" selection-end-line="11" selection-end-column="40" />
+          <caret line="12" column="40" selection-start-line="12" selection-end-line="12" selection-end-column="40" />
+          <caret line="13" column="40" selection-start-line="13" selection-end-line="13" selection-end-column="40" />
+          <caret line="14" column="40" selection-start-line="14" selection-end-line="14" selection-end-column="40" />
+          <caret line="15" column="40" selection-start-line="15" selection-end-line="15" selection-end-column="40" />
+          <caret line="16" column="40" selection-start-line="16" selection-end-line="16" selection-end-column="40" />
+          <caret line="17" column="40" selection-start-line="17" selection-end-line="17" selection-end-column="40" />
+          <caret line="18" column="40" selection-start-line="18" selection-end-line="18" selection-end-column="40" />
+          <caret line="19" column="40" selection-start-line="19" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-ForLoopBreakRange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-ContinuePass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-IfElse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-While.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="12" lean-forward="true" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-FunctionArgument.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-FunctinReturn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Lamda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Scoope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Antrian/antrian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Antrian/Belajar-STackQueuing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelajarModule/matematika.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Package/sains/Matematika.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Package/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/BelajarImport/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Package/sains/Fisika.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Package/sains/matematika/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/BelajarImport/modul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Package/sains/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Package/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelajarModule/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package-Lanjut/sains/matematika/Matematika.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Main/matematika.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package-Lanjut/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package-Lanjut/sains/matematika/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package-Lanjut/sains/Fisika.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package-Lanjut/sains/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Class/Belajar-Inheritance/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-LoopingLanjutan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-InputOutput/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-InputOutput/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-GUI/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Main/nump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Main/Pillow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Belajar-Class/Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

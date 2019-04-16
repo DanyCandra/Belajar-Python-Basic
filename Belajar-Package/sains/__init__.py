@@ -1,2 +1,2 @@
-from .Matematika import *
 from .Fisika import *
+from .Matematika import *

@@ -1,0 +1,5 @@
+Data text yang digunakan oleh python
+ini baris ke dua
+ini baris ke tiga
+ini baris ke empat
+Menambah Baris dari Append
